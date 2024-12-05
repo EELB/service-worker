@@ -1,0 +1,8 @@
+html, body{
+    height: max-content;
+    width: max-content;
+   }
+   
+   h1,h2,h3,h4,h5{
+   color: rgb(36,1,1);
+   }
